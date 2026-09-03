@@ -1,8 +1,5 @@
 name = "vijay-supermarket"
 pages_build_output_dir = "dist"
 
-[site]
-bucket = "./dist"
-
 [vars]
 NODE_VERSION = "20"
